@@ -1,9 +1,0 @@
-# 1. Buat folder react bernama 'client'
-npm create vite@latest client -- --template react
-
-# 2. Masuk ke folder client yang baru dibuat
-cd client
-
-# 3. Install library yang dibutuhkan (agar tidak error)
-npm install
-npm install lucide-react
